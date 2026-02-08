@@ -1,0 +1,23 @@
+# =========================================================
+# System Of All – Ecosystem
+# CODEOWNERS
+# =========================================================
+# Mandatory architectural review for all ecosystem changes
+# =========================================================
+
+# Default owner (entire repository)
+* @theoneoriginal
+
+# Root documentation
+/README.md @theoneoriginal
+
+# Ecosystem layers
+/domains/** @theoneoriginal
+/entities/** @theoneoriginal
+/governance/** @theoneoriginal
+/standards/** @theoneoriginal
+/execution/** @theoneoriginal
+
+# Repository metadata
+/.github/** @theoneoriginal
+/LICENSE @theoneoriginal
